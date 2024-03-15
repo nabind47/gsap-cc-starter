@@ -1,3 +1,5 @@
+# [GSAP Animations](https://www.youtube.com/watch?v=kRQbRAJ4-Fs&t=988s)
+
 ```sh
 npm i gsap @gsap/react
 ```
